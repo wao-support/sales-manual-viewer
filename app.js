@@ -230,6 +230,29 @@ if ('serviceWorker' in navigator) {
     if (location.hash) history.back();
   }
 
+  function loadSlideImage(index) {
+    const slide = slides[index];
+    if (!slide || slide.querySelector('img')) return;
+    const i = index;
+    slide.innerHTML = `<div class="spinner"></div>`;
+    const img = new Image();
+    img.src = `${currentManual.imageDir}/page_${String(i + 1).padStart(2, '0')}.webp`;
+    img.alt = `${currentManual.location} - ページ ${i + 1}`;
+    img.onload = function () {
+      slide.innerHTML = '';
+      slide.appendChild(img);
+    };
+    img.onerror = function () {
+      slide.innerHTML = '<div class="empty-state"><p>画像を読み込めませんでした</p></div>';
+    };
+  }
+
+  function preloadNearby(page) {
+    const lo = Math.max(0, page - 1);
+    const hi = Math.min(slides.length - 1, page + 2);
+    for (let i = lo; i <= hi; i++) loadSlideImage(i);
+  }
+
   function buildSlides() {
     // 既存のスライドをクリア（ナビボタンは残す）
     const existingSlides = $viewerSlides.querySelectorAll('.viewer-slide');
@@ -239,20 +262,6 @@ if ('serviceWorker' in navigator) {
     for (let i = 0; i < currentManual.pageCount; i++) {
       const slide = document.createElement('div');
       slide.className = 'viewer-slide';
-      slide.innerHTML = `<div class="spinner"></div>`;
-
-      const img = new Image();
-      img.src = `${currentManual.imageDir}/page_${String(i + 1).padStart(2, '0')}.webp`;
-      img.alt = `${currentManual.location} - ページ ${i + 1}`;
-      img.loading = i < 3 ? 'eager' : 'lazy';  // 最初の3ページは即ロード
-      img.onload = function () {
-        slide.innerHTML = '';
-        slide.appendChild(img);
-      };
-      img.onerror = function () {
-        slide.innerHTML = '<div class="empty-state"><p>画像を読み込めませんでした</p></div>';
-      };
-
       $viewerSlides.insertBefore(slide, $navPrev);
       slides.push(slide);
     }
@@ -266,6 +275,8 @@ if ('serviceWorker' in navigator) {
       dot.addEventListener('click', () => goToPage(i));
       $viewerDots.appendChild(dot);
     }
+
+    preloadNearby(0);
   }
 
   function updateViewer() {
@@ -289,6 +300,9 @@ if ('serviceWorker' in navigator) {
     $navPrev.disabled = currentPage === 0;
     $navNext.style.opacity = currentPage < currentManual.pageCount - 1 ? '1' : '0.3';
     $navNext.disabled = currentPage === currentManual.pageCount - 1;
+
+    // 近隣ページを先読み
+    preloadNearby(currentPage);
   }
 
   function goToPage(page) {
