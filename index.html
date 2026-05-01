@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#f5f5f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+  <meta name="description" content="社食DELI 販売マニュアル - 拠点別販売手順をスマホで簡単確認">
+
+  <title>販売マニュアル | 社食DELI</title>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍱</text></svg>">
+</head>
+<body>
+
+  <!-- ===== パスワード画面 ===== -->
+  <div id="password-screen">
+    <div class="password-box">
+      <div class="logo">🍱</div>
+      <h1>販売マニュアル</h1>
+      <p class="subtitle">社食DELI スタッフ専用</p>
+      <form id="password-form">
+        <div class="password-input-group">
+          <input type="password" id="password-input" placeholder="パスワードを入力" autocomplete="current-password" required>
+        </div>
+        <p class="password-error" id="password-error">パスワードが正しくありません</p>
+        <button type="submit" class="password-submit">ログイン</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- ===== メインアプリ ===== -->
+  <div id="app">
+
+    <!-- ヘッダー -->
+    <header class="header" id="main-header">
+      <span class="header-title">🍱 販売マニュアル</span>
+    </header>
+
+    <!-- 検索バー -->
+    <div class="search-container" id="search-container">
+      <div class="search-bar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <input type="text" id="search-input" placeholder="マニュアル名で検索...">
+      </div>
+
+      <!-- カテゴリタブ -->
+      <div class="category-tabs" id="category-tabs">
+        <button class="category-tab active" data-category="location">📋 拠点マニュアル<span class="tab-count" id="count-location"></span></button>
+        <button class="category-tab" data-category="common">📄 共通マニュアル<span class="tab-count" id="count-common"></span></button>
+      </div>
+    </div>
+
+    <!-- マニュアル一覧 -->
+    <main class="manual-list" id="manual-list">
+      <div style="text-align:center; padding:60px 0;">
+        <div class="spinner" style="margin:0 auto;"></div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      社食DELI 販売マニュアル
+    </footer>
+  </div>
+
+  <!-- ===== ビューア画面 ===== -->
+  <div id="viewer-screen">
+    <div class="viewer-header">
+      <button class="viewer-back" id="viewer-back">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="15 18 9 12 15 6"/>
+        </svg>
+        戻る
+      </button>
+      <span class="viewer-title" id="viewer-title"></span>
+      <span class="viewer-page-indicator" id="viewer-page-indicator"></span>
+    </div>
+
+    <div class="viewer-slides" id="viewer-slides">
+      <!-- ナビゲーション矢印 (Desktop) -->
+      <button class="viewer-nav prev" id="nav-prev">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="20" height="20">
+          <polyline points="15 18 9 12 15 6"/>
+        </svg>
+      </button>
+      <button class="viewer-nav next" id="nav-next">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" width="20" height="20">
+          <polyline points="9 18 15 12 9 6"/>
+        </svg>
+      </button>
+    </div>
+
+    <div class="viewer-dots" id="viewer-dots"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

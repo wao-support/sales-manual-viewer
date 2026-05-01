@@ -1,0 +1,2357 @@
+{
+  "generatedAt": "2026/05/01 12:37:03",
+  "totalManuals": 235,
+  "totalPages": 2060,
+  "manuals": [
+    {
+      "id": "虎ノ門三井ビル",
+      "location": "虎ノ門三井ビル",
+      "category": "common",
+      "address": "",
+      "updateDate": "2025/07/03",
+      "pageCount": 4,
+      "sourceFile": "⒒虎ノ門三井ビル20250703.pdf",
+      "imageDir": "images/虎ノ門三井ビル"
+    },
+    {
+      "id": "価格一覧表(20240401対象)",
+      "location": "価格一覧表(20240401対象)",
+      "category": "common",
+      "address": "",
+      "updateDate": "2024/04/01",
+      "pageCount": 1,
+      "sourceFile": "★価格一覧表(20240401対象)20240329.pdf",
+      "imageDir": "images/価格一覧表(20240401対象)"
+    },
+    {
+      "id": "価格一覧表(20240401対象外)",
+      "location": "価格一覧表(20240401対象外)",
+      "category": "common",
+      "address": "",
+      "updateDate": "2024/04/01",
+      "pageCount": 1,
+      "sourceFile": "★価格一覧表(20240401対象外)20240329.pdf",
+      "imageDir": "images/価格一覧表(20240401対象外)"
+    },
+    {
+      "id": "有給休暇申請書",
+      "location": "有給休暇申請書",
+      "category": "common",
+      "address": "",
+      "updateDate": "2022/09/20",
+      "pageCount": 2,
+      "sourceFile": "★有給休暇申請書20220920.pdf",
+      "imageDir": "images/有給休暇申請書"
+    },
+    {
+      "id": "PayPayマニュアル ",
+      "location": "PayPayマニュアル ",
+      "category": "common",
+      "address": "",
+      "updateDate": "2022/01/25",
+      "pageCount": 8,
+      "sourceFile": "〈マ〉PayPayマニュアル 20220125.pdf",
+      "imageDir": "images/PayPayマニュアル "
+    },
+    {
+      "id": "楽天端末",
+      "location": "楽天端末",
+      "category": "common",
+      "address": "",
+      "updateDate": "2022/01/12",
+      "pageCount": 6,
+      "sourceFile": "〈マ〉【楽天端末】決済用 20220112.pdf",
+      "imageDir": "images/楽天端末"
+    },
+    {
+      "id": "楽天端末",
+      "location": "楽天端末",
+      "category": "common",
+      "address": "",
+      "updateDate": "2022/09/15",
+      "pageCount": 7,
+      "sourceFile": "〈マ〉【楽天端末】設定用 20220915.pdf",
+      "imageDir": "images/楽天端末"
+    },
+    {
+      "id": "クロスの順番･弁当の並べ順",
+      "location": "クロスの順番･弁当の並べ順",
+      "category": "common",
+      "address": "",
+      "updateDate": "2024/08/23",
+      "pageCount": 1,
+      "sourceFile": "〈マ〉クロスの順番･弁当の並べ順20240823.pdf",
+      "imageDir": "images/クロスの順番･弁当の並べ順"
+    },
+    {
+      "id": "シフトインマニュアル　販売員用　",
+      "location": "シフトインマニュアル　販売員用　",
+      "category": "common",
+      "address": "",
+      "updateDate": "2022/04/01",
+      "pageCount": 9,
+      "sourceFile": "〈マ〉シフトインマニュアル　販売員用　20220401.pdf",
+      "imageDir": "images/シフトインマニュアル　販売員用　"
+    },
+    {
+      "id": "ステラ操作マニュアル(20240202版)",
+      "location": "ステラ操作マニュアル(20240202版)",
+      "category": "common",
+      "address": "",
+      "updateDate": "2024/02/02",
+      "pageCount": 10,
+      "sourceFile": "〈マ〉ステラ操作マニュアル(20240202版)20240202.pdf",
+      "imageDir": "images/ステラ操作マニュアル(20240202版)"
+    },
+    {
+      "id": "新売上管理システムマニュアル",
+      "location": "新売上管理システムマニュアル",
+      "category": "common",
+      "address": "",
+      "updateDate": "2021/11/25",
+      "pageCount": 18,
+      "sourceFile": "〈マ〉新売上管理システムマニュアル20211125.pdf",
+      "imageDir": "images/新売上管理システムマニュアル"
+    },
+    {
+      "id": "月末回収マニュアル(2023年4月以降修正版)",
+      "location": "月末回収マニュアル(2023年4月以降修正版)",
+      "category": "common",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 5,
+      "sourceFile": "〈マ〉月末回収マニュアル(2023年4月以降修正版).pdf",
+      "imageDir": "images/月末回収マニュアル(2023年4月以降修正版)"
+    },
+    {
+      "id": "領収証の書き方(販売員用)",
+      "location": "領収証の書き方(販売員用)",
+      "category": "common",
+      "address": "",
+      "updateDate": "2023/10/10",
+      "pageCount": 1,
+      "sourceFile": "〈マ〉領収証の書き方(販売員用)20231010.pdf",
+      "imageDir": "images/領収証の書き方(販売員用)"
+    },
+    {
+      "id": "〈取説〉ハンドラベラー取扱説明書",
+      "location": "〈取説〉ハンドラベラー取扱説明書",
+      "category": "common",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 2,
+      "sourceFile": "〈取説〉ハンドラベラー取扱説明書.pdf",
+      "imageDir": "images/〈取説〉ハンドラベラー取扱説明書"
+    },
+    {
+      "id": "ADKホールディングス",
+      "location": "ADKホールディングス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/03",
+      "pageCount": 17,
+      "sourceFile": "【ADKホールディングス】販売_共有20250703.pdf",
+      "imageDir": "images/ADKホールディングス"
+    },
+    {
+      "id": "AKKODiSコンサルティング_天王洲セントラルタワー_23Ｆ_24Ｆ",
+      "location": "AKKODiSコンサルティング_天王洲セントラルタワー_23Ｆ_24Ｆ",
+      "category": "location",
+      "address": "東京都品川区東品川2丁目2番24号　天王",
+      "updateDate": "2026/20/40",
+      "pageCount": 10,
+      "sourceFile": "【AKKODiSコンサルティング_天王洲セントラルタワー_23Ｆ_24Ｆ】販売_共有202620402.pdf",
+      "imageDir": "images/AKKODiSコンサルティング_天王洲セントラルタワー_23Ｆ_24Ｆ"
+    },
+    {
+      "id": "AOI国際病院",
+      "location": "AOI国際病院",
+      "category": "location",
+      "address": "〒210-0822　神奈川県川崎市川崎区田町2丁",
+      "updateDate": "2025/03/10",
+      "pageCount": 6,
+      "sourceFile": "【AOI国際病院】販売_20250310.pdf",
+      "imageDir": "images/AOI国際病院"
+    },
+    {
+      "id": "AXSビル",
+      "location": "AXSビル",
+      "category": "location",
+      "address": "〒130-0015",
+      "updateDate": "2025/05/13",
+      "pageCount": 8,
+      "sourceFile": "【AXSビル】販売_20250513.pdf",
+      "imageDir": "images/AXSビル"
+    },
+    {
+      "id": "Aimng(新本社）",
+      "location": "Aimng(新本社）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/03/27",
+      "pageCount": 9,
+      "sourceFile": "【Aimng(新本社）】販売員20250327.pdf",
+      "imageDir": "images/Aimng(新本社）"
+    },
+    {
+      "id": "CTCファシリティーズ_本社",
+      "location": "CTCファシリティーズ_本社",
+      "category": "location",
+      "address": "神奈川県横浜市都筑区二の丸1番2号",
+      "updateDate": "2025/10/06",
+      "pageCount": 18,
+      "sourceFile": "【CTCファシリティーズ_本社】販売_共有20251006.pdf",
+      "imageDir": "images/CTCファシリティーズ_本社"
+    },
+    {
+      "id": "DBJリアルエステート_本社",
+      "location": "DBJリアルエステート_本社",
+      "category": "location",
+      "address": "東京都千代田区大手町1-9-2",
+      "updateDate": "2026/20/31",
+      "pageCount": 6,
+      "sourceFile": "【DBJリアルエステート_本社】販売_共有202620313.pdf",
+      "imageDir": "images/DBJリアルエステート_本社"
+    },
+    {
+      "id": "DMM.com_本社",
+      "location": "DMM.com_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/12/05",
+      "pageCount": 9,
+      "sourceFile": "【DMM.com_本社】販売_共有20251205.pdf",
+      "imageDir": "images/DMM.com_本社"
+    },
+    {
+      "id": "Full Bet Group",
+      "location": "Full Bet Group",
+      "category": "location",
+      "address": ":〒150-0044 東京都渋谷区円山町3-6E・ス",
+      "updateDate": "2025/11/20",
+      "pageCount": 18,
+      "sourceFile": "【Full Bet Group】販売_共有20251120.pdf",
+      "imageDir": "images/Full Bet Group"
+    },
+    {
+      "id": "HITOWAホールディングス",
+      "location": "HITOWAホールディングス",
+      "category": "location",
+      "address": "〒108-6215",
+      "updateDate": "2025/07/11",
+      "pageCount": 7,
+      "sourceFile": "【HITOWAホールディングス】販売_20250711.pdf",
+      "imageDir": "images/HITOWAホールディングス"
+    },
+    {
+      "id": "HYBEJAPAN",
+      "location": "HYBEJAPAN",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/09/05",
+      "pageCount": 4,
+      "sourceFile": "【HYBEJAPAN】販売_20240905.pdf",
+      "imageDir": "images/HYBEJAPAN"
+    },
+    {
+      "id": "INFORICH",
+      "location": "INFORICH",
+      "category": "location",
+      "address": "東京都渋谷区神宮前5丁目52-2",
+      "updateDate": "2025/06/12",
+      "pageCount": 17,
+      "sourceFile": "【INFORICH】販売_共有20250612.pdf",
+      "imageDir": "images/INFORICH"
+    },
+    {
+      "id": "JMAホールディングス",
+      "location": "JMAホールディングス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/04/07",
+      "pageCount": 5,
+      "sourceFile": "【JMAホールディングス】20230407.pdf",
+      "imageDir": "images/JMAホールディングス"
+    },
+    {
+      "id": "JPタワー",
+      "location": "JPタワー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/04/22",
+      "pageCount": 2,
+      "sourceFile": "【JPタワー】追加_売り場レイアウト変更20240422.pdf",
+      "imageDir": "images/JPタワー"
+    },
+    {
+      "id": "KDDI au pay金額確認用アカウント設定",
+      "location": "KDDI au pay金額確認用アカウント設定",
+      "category": "location",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 4,
+      "sourceFile": "【KDDI au pay金額確認用アカウント設定】.pdf",
+      "imageDir": "images/KDDI au pay金額確認用アカウント設定"
+    },
+    {
+      "id": "KDDIエンジニアリング_本社",
+      "location": "KDDIエンジニアリング_本社",
+      "category": "location",
+      "address": "東京都渋谷区代々木3-22-7",
+      "updateDate": "2026/03/06",
+      "pageCount": 8,
+      "sourceFile": "【KDDIエンジニアリング_本社】販売_共有20260306.pdf",
+      "imageDir": "images/KDDIエンジニアリング_本社"
+    },
+    {
+      "id": "NBF南青山ビル",
+      "location": "NBF南青山ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 5,
+      "sourceFile": "【NBF南青山ビル】2025072.pdf",
+      "imageDir": "images/NBF南青山ビル"
+    },
+    {
+      "id": "NTTドコモ36F(35F撤退)",
+      "location": "NTTドコモ36F(35F撤退)",
+      "category": "location",
+      "address": "",
+      "updateDate": "2020/05/07",
+      "pageCount": 3,
+      "sourceFile": "【NTTドコモ36F(35F撤退)】20200507.pdf",
+      "imageDir": "images/NTTドコモ36F(35F撤退)"
+    },
+    {
+      "id": "RYODEN_本社",
+      "location": "RYODEN_本社",
+      "category": "location",
+      "address": "東京都千代田区麹町5丁目1番4 麹町弘済",
+      "updateDate": "2025/11/04",
+      "pageCount": 17,
+      "sourceFile": "【RYODEN_本社】販売_共有20251104.pdf",
+      "imageDir": "images/RYODEN_本社"
+    },
+    {
+      "id": "SAビル",
+      "location": "SAビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/00/60",
+      "pageCount": 3,
+      "sourceFile": "【SAビル】202100609.pdf",
+      "imageDir": "images/SAビル"
+    },
+    {
+      "id": "SBI 15F",
+      "location": "SBI 15F",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/05/13",
+      "pageCount": 6,
+      "sourceFile": "【SBI 15F】販売_20250513.pdf",
+      "imageDir": "images/SBI 15F"
+    },
+    {
+      "id": "SBI新生ビジネスサービス",
+      "location": "SBI新生ビジネスサービス",
+      "category": "location",
+      "address": "東京都港区六本木一丁目6番25号",
+      "updateDate": "2026/01/19",
+      "pageCount": 7,
+      "sourceFile": "【SBI新生ビジネスサービス】販売_20260119.pdf",
+      "imageDir": "images/SBI新生ビジネスサービス"
+    },
+    {
+      "id": "SBSホールディングス24階･26階",
+      "location": "SBSホールディングス24階･26階",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/31",
+      "pageCount": 5,
+      "sourceFile": "【SBSホールディングス24階･26階】20250131.pdf",
+      "imageDir": "images/SBSホールディングス24階･26階"
+    },
+    {
+      "id": "SBSホールディングス",
+      "location": "SBSホールディングス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/10",
+      "pageCount": 6,
+      "sourceFile": "【SBSホールディングス】20250210.pdf",
+      "imageDir": "images/SBSホールディングス"
+    },
+    {
+      "id": "SCSK14F",
+      "location": "SCSK14F",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/03/28",
+      "pageCount": 8,
+      "sourceFile": "【SCSK14F】販売員20250328.pdf",
+      "imageDir": "images/SCSK14F"
+    },
+    {
+      "id": "TFT 日報マニュアル",
+      "location": "TFT 日報マニュアル",
+      "category": "location",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 4,
+      "sourceFile": "【TFT 日報マニュアル】.pdf",
+      "imageDir": "images/TFT 日報マニュアル"
+    },
+    {
+      "id": "TFT",
+      "location": "TFT",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/12",
+      "pageCount": 5,
+      "sourceFile": "【TFT】販売員20250612.pdf",
+      "imageDir": "images/TFT"
+    },
+    {
+      "id": "UR横浜アイランド",
+      "location": "UR横浜アイランド",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/02/28",
+      "pageCount": 6,
+      "sourceFile": "【UR横浜アイランド】20240228(OPEN前).xlsx - UR横浜アイランド_販売員20240228.pdf",
+      "imageDir": "images/UR横浜アイランド"
+    },
+    {
+      "id": "UR横浜アイランド",
+      "location": "UR横浜アイランド",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/09/30",
+      "pageCount": 3,
+      "sourceFile": "【UR横浜アイランド】20240930仮移転場所(10月7日～12月中旬まで).pdf",
+      "imageDir": "images/UR横浜アイランド"
+    },
+    {
+      "id": "UR横浜アイランド",
+      "location": "UR横浜アイランド",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/03/13",
+      "pageCount": 6,
+      "sourceFile": "【UR横浜アイランド】販売員20250313.pdf",
+      "imageDir": "images/UR横浜アイランド"
+    },
+    {
+      "id": "ZVC JAPAN",
+      "location": "ZVC JAPAN",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/21",
+      "pageCount": 17,
+      "sourceFile": "【ZVC JAPAN】販売_共有20250221.pdf",
+      "imageDir": "images/ZVC JAPAN"
+    },
+    {
+      "id": "freee_10F ぽかぽか（無人）_19F のびのび（有人）",
+      "location": "freee_10F ぽかぽか（無人）_19F のびのび（有人）",
+      "category": "location",
+      "address": "：品川区大崎1-2-2",
+      "updateDate": "2026/04/01",
+      "pageCount": 8,
+      "sourceFile": "【freee_10F ぽかぽか（無人）_19F のびのび（有人）】販売_共有20260401.pdf",
+      "imageDir": "images/freee_10F ぽかぽか（無人）_19F のびのび（有人）"
+    },
+    {
+      "id": "freee_10Fポカポカ",
+      "location": "freee_10Fポカポカ",
+      "category": "location",
+      "address": "：品川区大崎1-2-2",
+      "updateDate": "2026/01/13",
+      "pageCount": 7,
+      "sourceFile": "【freee_10Fポカポカ】販売_共有20260113.pdf",
+      "imageDir": "images/freee_10Fポカポカ"
+    },
+    {
+      "id": "freee",
+      "location": "freee",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/11/28",
+      "pageCount": 11,
+      "sourceFile": "【freee】20251128_販売員.pdf",
+      "imageDir": "images/freee"
+    },
+    {
+      "id": "けいゆう病院",
+      "location": "けいゆう病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 10,
+      "sourceFile": "【けいゆう病院】販売_2025425.pdf",
+      "imageDir": "images/けいゆう病院"
+    },
+    {
+      "id": "みなとみらいセンタービル",
+      "location": "みなとみらいセンタービル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/24",
+      "pageCount": 12,
+      "sourceFile": "【みなとみらいセンタービル】販売_20250624.pdf",
+      "imageDir": "images/みなとみらいセンタービル"
+    },
+    {
+      "id": "アテナ",
+      "location": "アテナ",
+      "category": "location",
+      "address": "〒134-8582",
+      "updateDate": "2025/05/30",
+      "pageCount": 8,
+      "sourceFile": "【アテナ】販売_20250530.pdf",
+      "imageDir": "images/アテナ"
+    },
+    {
+      "id": "アルコタワー",
+      "location": "アルコタワー",
+      "category": "location",
+      "address": "〒153-0064",
+      "updateDate": "2025/08/29",
+      "pageCount": 7,
+      "sourceFile": "【アルコタワー】販売_20250829.pdf",
+      "imageDir": "images/アルコタワー"
+    },
+    {
+      "id": "アンカージャパン_本社",
+      "location": "アンカージャパン_本社",
+      "category": "location",
+      "address": "東京都港区赤坂2-17-22",
+      "updateDate": "2026/20/26",
+      "pageCount": 8,
+      "sourceFile": "【アンカージャパン_本社】販売_共有202620260224.pdf",
+      "imageDir": "images/アンカージャパン_本社"
+    },
+    {
+      "id": "アーバンネット三田ビル",
+      "location": "アーバンネット三田ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/08/19",
+      "pageCount": 6,
+      "sourceFile": "【アーバンネット三田ビル】20240819.pdf",
+      "imageDir": "images/アーバンネット三田ビル"
+    },
+    {
+      "id": "オカムラ_浜離宮三井ビル",
+      "location": "オカムラ_浜離宮三井ビル",
+      "category": "location",
+      "address": "東京都中央区築地５丁目６−４",
+      "updateDate": "2026/05/18",
+      "pageCount": 9,
+      "sourceFile": "【オカムラ_浜離宮三井ビル】販売_20260518～(無人OPEN).pdf",
+      "imageDir": "images/オカムラ_浜離宮三井ビル"
+    },
+    {
+      "id": "オカムラ_浜離宮三井ビル",
+      "location": "オカムラ_浜離宮三井ビル",
+      "category": "location",
+      "address": "東京都中央区築地５丁目６−４",
+      "updateDate": "2025/08/19",
+      "pageCount": 17,
+      "sourceFile": "【オカムラ_浜離宮三井ビル】販売_共有20250819.pdf",
+      "imageDir": "images/オカムラ_浜離宮三井ビル"
+    },
+    {
+      "id": "オランダヒルズ森タワー",
+      "location": "オランダヒルズ森タワー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/25",
+      "pageCount": 7,
+      "sourceFile": "【オランダヒルズ森タワー】販売_20250725.pdf",
+      "imageDir": "images/オランダヒルズ森タワー"
+    },
+    {
+      "id": "オービックビジネスコンサルタント_本社",
+      "location": "オービックビジネスコンサルタント_本社",
+      "category": "location",
+      "address": "新宿区西新宿六丁目8番1号",
+      "updateDate": "2025/12/02",
+      "pageCount": 17,
+      "sourceFile": "【オービックビジネスコンサルタント_本社】販売_共有20251202.pdf",
+      "imageDir": "images/オービックビジネスコンサルタント_本社"
+    },
+    {
+      "id": "カカオピッコマ",
+      "location": "カカオピッコマ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 9,
+      "sourceFile": "【カカオピッコマ】販売_20250905.pdf",
+      "imageDir": "images/カカオピッコマ"
+    },
+    {
+      "id": "カネカ",
+      "location": "カネカ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/20",
+      "pageCount": 2,
+      "sourceFile": "【カネカ】20250220販売.pdf",
+      "imageDir": "images/カネカ"
+    },
+    {
+      "id": "カネカ",
+      "location": "カネカ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/20",
+      "pageCount": 2,
+      "sourceFile": "【カネカ】販売20250620.pdf",
+      "imageDir": "images/カネカ"
+    },
+    {
+      "id": "カルタＨＤ",
+      "location": "カルタＨＤ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/12/07",
+      "pageCount": 8,
+      "sourceFile": "【カルタＨＤ】20231207(OPEN前).pdf",
+      "imageDir": "images/カルタＨＤ"
+    },
+    {
+      "id": "キーウェアソリューションズ",
+      "location": "キーウェアソリューションズ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/05/08",
+      "pageCount": 7,
+      "sourceFile": "【キーウェアソリューションズ】20240508(OPEN前).pdf",
+      "imageDir": "images/キーウェアソリューションズ"
+    },
+    {
+      "id": "クラウドワークス_本社",
+      "location": "クラウドワークス_本社",
+      "category": "location",
+      "address": "東京都港区 麻布台一丁目3番1号",
+      "updateDate": "2025/10/10",
+      "pageCount": 17,
+      "sourceFile": "【クラウドワークス_本社】販売_共有20251010.pdf",
+      "imageDir": "images/クラウドワークス_本社"
+    },
+    {
+      "id": "クラウドワークス_本社",
+      "location": "クラウドワークス_本社",
+      "category": "location",
+      "address": "東京都港区 麻布台一丁目3番1号",
+      "updateDate": "2026/02/09",
+      "pageCount": 17,
+      "sourceFile": "【クラウドワークス_本社】販売_共有20260209.pdf",
+      "imageDir": "images/クラウドワークス_本社"
+    },
+    {
+      "id": "コア 1階",
+      "location": "コア 1階",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/03",
+      "pageCount": 9,
+      "sourceFile": "【コア 1階】販売員20250403.pdf",
+      "imageDir": "images/コア 1階"
+    },
+    {
+      "id": "コア",
+      "location": "コア",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/26",
+      "pageCount": 17,
+      "sourceFile": "【コア】販売1階用_共有20250226.pdf",
+      "imageDir": "images/コア"
+    },
+    {
+      "id": "コア",
+      "location": "コア",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/26",
+      "pageCount": 17,
+      "sourceFile": "【コア】販売地下1階用_共有20250226.pdf",
+      "imageDir": "images/コア"
+    },
+    {
+      "id": "コナミ_GINZASIX",
+      "location": "コナミ_GINZASIX",
+      "category": "location",
+      "address": "：104-0061",
+      "updateDate": "2026/01/26",
+      "pageCount": 8,
+      "sourceFile": "【コナミ_GINZASIX】販売_共有20260126.pdf",
+      "imageDir": "images/コナミ_GINZASIX"
+    },
+    {
+      "id": "コナミ",
+      "location": "コナミ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/23",
+      "pageCount": 4,
+      "sourceFile": "【コナミ】販売_20250623.pdf",
+      "imageDir": "images/コナミ"
+    },
+    {
+      "id": "コモディオ汐留",
+      "location": "コモディオ汐留",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 9,
+      "sourceFile": "【コモディオ汐留】20250905.pdf",
+      "imageDir": "images/コモディオ汐留"
+    },
+    {
+      "id": "コーセー",
+      "location": "コーセー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/04",
+      "pageCount": 8,
+      "sourceFile": "【コーセー】販売_20250904.pdf",
+      "imageDir": "images/コーセー"
+    },
+    {
+      "id": "サンシャイン60ビル",
+      "location": "サンシャイン60ビル",
+      "category": "location",
+      "address": "東京都豊島区東池袋三丁目1番1号",
+      "updateDate": "2025/09/19",
+      "pageCount": 17,
+      "sourceFile": "【サンシャイン60ビル】販売_共有20250919.pdf",
+      "imageDir": "images/サンシャイン60ビル"
+    },
+    {
+      "id": "サンシャイン60ビル",
+      "location": "サンシャイン60ビル",
+      "category": "location",
+      "address": "東京都豊島区東池袋三丁目1番1号",
+      "updateDate": "2026/02/17",
+      "pageCount": 17,
+      "sourceFile": "【サンシャイン60ビル】販売_共有20260217.pdf",
+      "imageDir": "images/サンシャイン60ビル"
+    },
+    {
+      "id": "シミックホールディングス",
+      "location": "シミックホールディングス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/05/28",
+      "pageCount": 7,
+      "sourceFile": "【シミックホールディングス】20240528.pdf",
+      "imageDir": "images/シミックホールディングス"
+    },
+    {
+      "id": "シーノ大宮ノースウィング",
+      "location": "シーノ大宮ノースウィング",
+      "category": "location",
+      "address": "",
+      "updateDate": "2020/12/25",
+      "pageCount": 2,
+      "sourceFile": "【シーノ大宮ノースウィング】20201225.pdf",
+      "imageDir": "images/シーノ大宮ノースウィング"
+    },
+    {
+      "id": "スタイレム瀧定大阪_原宿オフィス",
+      "location": "スタイレム瀧定大阪_原宿オフィス",
+      "category": "location",
+      "address": "〒150-0001 東京都渋谷区神宮前2-31-11",
+      "updateDate": "2025/11/04",
+      "pageCount": 17,
+      "sourceFile": "【スタイレム瀧定大阪_原宿オフィス】販売_共有20251104 .pdf",
+      "imageDir": "images/スタイレム瀧定大阪_原宿オフィス"
+    },
+    {
+      "id": "セプテーニ・ホールディングス_本社",
+      "location": "セプテーニ・ホールディングス_本社",
+      "category": "location",
+      "address": "東京都新宿区西新宿8-17",
+      "updateDate": "2026/05/11",
+      "pageCount": 9,
+      "sourceFile": "【セプテーニ・ホールディングス_本社】販売_20260511～(無人OPEN).pdf",
+      "imageDir": "images/セプテーニ・ホールディングス_本社"
+    },
+    {
+      "id": "セプテーニ・ホールディングス_本社",
+      "location": "セプテーニ・ホールディングス_本社",
+      "category": "location",
+      "address": "東京都新宿区西新宿8-17",
+      "updateDate": "2025/12/01",
+      "pageCount": 17,
+      "sourceFile": "【セプテーニ・ホールディングス_本社】販売_共有20251201.pdf",
+      "imageDir": "images/セプテーニ・ホールディングス_本社"
+    },
+    {
+      "id": "タイトー",
+      "location": "タイトー",
+      "category": "location",
+      "address": "〒160-0022 東京都新宿区新宿６丁目２７−３０ イ―",
+      "updateDate": "2025/09/05",
+      "pageCount": 6,
+      "sourceFile": "【タイトー】販売員マニュアル_20250905(8_25より約1か月半).pdf",
+      "imageDir": "images/タイトー"
+    },
+    {
+      "id": "タカラトミー立石本社",
+      "location": "タカラトミー立石本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/01/12",
+      "pageCount": 4,
+      "sourceFile": "【タカラトミー立石本社】20240112(OPEN前).pdf",
+      "imageDir": "images/タカラトミー立石本社"
+    },
+    {
+      "id": "ダイキン工業",
+      "location": "ダイキン工業",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/10",
+      "pageCount": 7,
+      "sourceFile": "【ダイキン工業】_販売員20251010.pdf",
+      "imageDir": "images/ダイキン工業"
+    },
+    {
+      "id": "ダイバーシティ東京",
+      "location": "ダイバーシティ東京",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/06/19",
+      "pageCount": 2,
+      "sourceFile": "【ダイバーシティ東京】20230619.pdf",
+      "imageDir": "images/ダイバーシティ東京"
+    },
+    {
+      "id": "テクノウェイブ20250110まで",
+      "location": "テクノウェイブ20250110まで",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/10",
+      "pageCount": 13,
+      "sourceFile": "【テクノウェイブ20250110まで】20241218.pdf",
+      "imageDir": "images/テクノウェイブ20250110まで"
+    },
+    {
+      "id": "テクノウェイブ",
+      "location": "テクノウェイブ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/03/07",
+      "pageCount": 9,
+      "sourceFile": "【テクノウェイブ】販売員20250307.pdf",
+      "imageDir": "images/テクノウェイブ"
+    },
+    {
+      "id": "テクノポートカマタ",
+      "location": "テクノポートカマタ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/08/29",
+      "pageCount": 6,
+      "sourceFile": "【テクノポートカマタ】販売_共有20250829.pdf",
+      "imageDir": "images/テクノポートカマタ"
+    },
+    {
+      "id": "デルタ電子",
+      "location": "デルタ電子",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/29",
+      "pageCount": 7,
+      "sourceFile": "【デルタ電子】販売_20250129.pdf",
+      "imageDir": "images/デルタ電子"
+    },
+    {
+      "id": "デル・テクノロジーズ",
+      "location": "デル・テクノロジーズ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/27",
+      "pageCount": 8,
+      "sourceFile": "【デル・テクノロジーズ】販売_20250127.pdf",
+      "imageDir": "images/デル・テクノロジーズ"
+    },
+    {
+      "id": "デル・テクノロジーズ",
+      "location": "デル・テクノロジーズ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/03/16",
+      "pageCount": 10,
+      "sourceFile": "【デル・テクノロジーズ】販売_20260316～(無人OPEN）.pdf",
+      "imageDir": "images/デル・テクノロジーズ"
+    },
+    {
+      "id": "トヨタ自動車_九段ビル",
+      "location": "トヨタ自動車_九段ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/20",
+      "pageCount": 17,
+      "sourceFile": "【トヨタ自動車_九段ビル】販売_共有20251020.pdf",
+      "imageDir": "images/トヨタ自動車_九段ビル"
+    },
+    {
+      "id": "トヨタ自動車_大手町ビル",
+      "location": "トヨタ自動車_大手町ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/12/12",
+      "pageCount": 17,
+      "sourceFile": "【トヨタ自動車_大手町ビル】販売_共有20251212.pdf",
+      "imageDir": "images/トヨタ自動車_大手町ビル"
+    },
+    {
+      "id": "トルナーレ日本橋浜町",
+      "location": "トルナーレ日本橋浜町",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/09/27",
+      "pageCount": 5,
+      "sourceFile": "【トルナーレ日本橋浜町】20230927.pdf",
+      "imageDir": "images/トルナーレ日本橋浜町"
+    },
+    {
+      "id": "トレードピアお台場",
+      "location": "トレードピアお台場",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/04/09",
+      "pageCount": 6,
+      "sourceFile": "【トレードピアお台場】20240409.pdf",
+      "imageDir": "images/トレードピアお台場"
+    },
+    {
+      "id": "ナハト_本社",
+      "location": "ナハト_本社",
+      "category": "location",
+      "address": "〒150-0043　東京都渋谷区1-12-1",
+      "updateDate": "2025/10/08",
+      "pageCount": 17,
+      "sourceFile": "【ナハト_本社】販売_共有20251008.pdf",
+      "imageDir": "images/ナハト_本社"
+    },
+    {
+      "id": "ニチバン_本社",
+      "location": "ニチバン_本社",
+      "category": "location",
+      "address": "東京都千代田区麹町五丁目１番４　麹町弘",
+      "updateDate": "2025/11/10",
+      "pageCount": 17,
+      "sourceFile": "【ニチバン_本社】販売_共有20251110.pdf",
+      "imageDir": "images/ニチバン_本社"
+    },
+    {
+      "id": "ニューピア竹芝サウスタワー",
+      "location": "ニューピア竹芝サウスタワー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/07",
+      "pageCount": 4,
+      "sourceFile": "【ニューピア竹芝サウスタワー】20250707.pdf",
+      "imageDir": "images/ニューピア竹芝サウスタワー"
+    },
+    {
+      "id": "ニューピア竹芝ノースタワー",
+      "location": "ニューピア竹芝ノースタワー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/15",
+      "pageCount": 2,
+      "sourceFile": "【ニューピア竹芝ノースタワー】 20250715.pdf",
+      "imageDir": "images/ニューピア竹芝ノースタワー"
+    },
+    {
+      "id": "ノジマ_本社",
+      "location": "ノジマ_本社",
+      "category": "location",
+      "address": "東京都港区港南2-15-3",
+      "updateDate": "2026/04/08",
+      "pageCount": 8,
+      "sourceFile": "【ノジマ_本社】販売_共有20260408納品場所変更.pdf",
+      "imageDir": "images/ノジマ_本社"
+    },
+    {
+      "id": "ノースサンド本社",
+      "location": "ノースサンド本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 8,
+      "sourceFile": "【ノースサンド本社】20250905(9→18階へ 階数移動).pdf",
+      "imageDir": "images/ノースサンド本社"
+    },
+    {
+      "id": "バイキング",
+      "location": "バイキング",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/11",
+      "pageCount": 7,
+      "sourceFile": "【バイキング】_販売20250711.pdf",
+      "imageDir": "images/バイキング"
+    },
+    {
+      "id": "バロックジャパンリミテッド",
+      "location": "バロックジャパンリミテッド",
+      "category": "location",
+      "address": "153-0042",
+      "updateDate": "2025/10/14",
+      "pageCount": 8,
+      "sourceFile": "【バロックジャパンリミテッド】販売_20251014.pdf",
+      "imageDir": "images/バロックジャパンリミテッド"
+    },
+    {
+      "id": "バンダイスピリッツ",
+      "location": "バンダイスピリッツ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/08/08",
+      "pageCount": 9,
+      "sourceFile": "【バンダイスピリッツ】20240808.pdf",
+      "imageDir": "images/バンダイスピリッツ"
+    },
+    {
+      "id": "バンダイナムコエクスペリエンス_本社",
+      "location": "バンダイナムコエクスペリエンス_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/17",
+      "pageCount": 7,
+      "sourceFile": "【バンダイナムコエクスペリエンス_本社】販売員20251017.pdf",
+      "imageDir": "images/バンダイナムコエクスペリエンス_本社"
+    },
+    {
+      "id": "バンダイナムコ本社",
+      "location": "バンダイナムコ本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/04",
+      "pageCount": 6,
+      "sourceFile": "【バンダイナムコ本社】販売員20250404.pdf",
+      "imageDir": "images/バンダイナムコ本社"
+    },
+    {
+      "id": "ヒューリック葛西臨海ビル",
+      "location": "ヒューリック葛西臨海ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2020/07/31",
+      "pageCount": 4,
+      "sourceFile": "【ヒューリック葛西臨海ビル】20200731.pdf",
+      "imageDir": "images/ヒューリック葛西臨海ビル"
+    },
+    {
+      "id": "ファイザー_本社",
+      "location": "ファイザー_本社",
+      "category": "location",
+      "address": "東京都渋谷区代々木3-22-7",
+      "updateDate": "2025/06/06",
+      "pageCount": 19,
+      "sourceFile": "【ファイザー_本社】販売_共有20250606.pdf",
+      "imageDir": "images/ファイザー_本社"
+    },
+    {
+      "id": "フィリップス・ジャパン",
+      "location": "フィリップス・ジャパン",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/08/09",
+      "pageCount": 8,
+      "sourceFile": "【フィリップス・ジャパン】20240809.pdf",
+      "imageDir": "images/フィリップス・ジャパン"
+    },
+    {
+      "id": "フジタ",
+      "location": "フジタ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/06/05",
+      "pageCount": 6,
+      "sourceFile": "【フジタ】20240605.pdf",
+      "imageDir": "images/フジタ"
+    },
+    {
+      "id": "ブリストルマイヤーズスクイブ",
+      "location": "ブリストルマイヤーズスクイブ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/08/25",
+      "pageCount": 7,
+      "sourceFile": "【ブリストルマイヤーズスクイブ】20230825_工事中変更.pdf",
+      "imageDir": "images/ブリストルマイヤーズスクイブ"
+    },
+    {
+      "id": "プロジェクトホールディングス_本社",
+      "location": "プロジェクトホールディングス_本社",
+      "category": "location",
+      "address": "東京都港区 麻布台一丁目3番1号",
+      "updateDate": "2026/01/13",
+      "pageCount": 18,
+      "sourceFile": "【プロジェクトホールディングス_本社】販売_共有20260113.pdf",
+      "imageDir": "images/プロジェクトホールディングス_本社"
+    },
+    {
+      "id": "ベイカレント_六本木グランドタワー",
+      "location": "ベイカレント_六本木グランドタワー",
+      "category": "location",
+      "address": "：東京都港区六本木三丁目2番1号",
+      "updateDate": "2025/12/05",
+      "pageCount": 17,
+      "sourceFile": "【ベイカレント_六本木グランドタワー】販売_共有20251205.pdf",
+      "imageDir": "images/ベイカレント_六本木グランドタワー"
+    },
+    {
+      "id": "マクニカ第１ビル",
+      "location": "マクニカ第１ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/08",
+      "pageCount": 6,
+      "sourceFile": "【マクニカ第１ビル】_販売員20250908.pdf",
+      "imageDir": "images/マクニカ第１ビル"
+    },
+    {
+      "id": "マクニカ第２ビル",
+      "location": "マクニカ第２ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/08",
+      "pageCount": 6,
+      "sourceFile": "【マクニカ第２ビル】_販売員20250908.pdf",
+      "imageDir": "images/マクニカ第２ビル"
+    },
+    {
+      "id": "マテリアルグループ_本社",
+      "location": "マテリアルグループ_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/11",
+      "pageCount": 17,
+      "sourceFile": "【マテリアルグループ_本社】販売_共有20250611.pdf",
+      "imageDir": "images/マテリアルグループ_本社"
+    },
+    {
+      "id": "ミタマチテラス",
+      "location": "ミタマチテラス",
+      "category": "location",
+      "address": "：〒108-0014 東京都港区芝５丁目３４−２",
+      "updateDate": "2025/11/20",
+      "pageCount": 17,
+      "sourceFile": "【ミタマチテラス】販売_共有20251120.pdf",
+      "imageDir": "images/ミタマチテラス"
+    },
+    {
+      "id": "ミュージアムタワー京橋",
+      "location": "ミュージアムタワー京橋",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/06/09",
+      "pageCount": 4,
+      "sourceFile": "【ミュージアムタワー京橋】20220609.pdf",
+      "imageDir": "images/ミュージアムタワー京橋"
+    },
+    {
+      "id": "メドレー_本社",
+      "location": "メドレー_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/15",
+      "pageCount": 11,
+      "sourceFile": "【メドレー_本社】販売1階用_共有20251015.pdf",
+      "imageDir": "images/メドレー_本社"
+    },
+    {
+      "id": "ヤマハコーポレートサービス",
+      "location": "ヤマハコーポレートサービス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/15",
+      "pageCount": 7,
+      "sourceFile": "【ヤマハコーポレートサービス】販売_20251015.pdf",
+      "imageDir": "images/ヤマハコーポレートサービス"
+    },
+    {
+      "id": "ユーザベース",
+      "location": "ユーザベース",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/03",
+      "pageCount": 6,
+      "sourceFile": "【ユーザベース】販売_20250703.pdf",
+      "imageDir": "images/ユーザベース"
+    },
+    {
+      "id": "ラクスル",
+      "location": "ラクスル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/25",
+      "pageCount": 9,
+      "sourceFile": "【ラクスル】販売_20250725.pdf",
+      "imageDir": "images/ラクスル"
+    },
+    {
+      "id": "リバーサイド隅田",
+      "location": "リバーサイド隅田",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/27",
+      "pageCount": 9,
+      "sourceFile": "【リバーサイド隅田】_販売員20251027.pdf",
+      "imageDir": "images/リバーサイド隅田"
+    },
+    {
+      "id": "ロジスティードコラボネクスト_首都圏第一営業所",
+      "location": "ロジスティードコラボネクスト_首都圏第一営業所",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/05",
+      "pageCount": 10,
+      "sourceFile": "【ロジスティードコラボネクスト_首都圏第一営業所】販売_20250605.pdf",
+      "imageDir": "images/ロジスティードコラボネクスト_首都圏第一営業所"
+    },
+    {
+      "id": "ワテラスタワー",
+      "location": "ワテラスタワー",
+      "category": "location",
+      "address": "東京都千代田区神田淡路町二丁目101,105",
+      "updateDate": "2026/02/27",
+      "pageCount": 8,
+      "sourceFile": "【ワテラスタワー】販売_共有20260227.pdf",
+      "imageDir": "images/ワテラスタワー"
+    },
+    {
+      "id": "三井ホーム",
+      "location": "三井ホーム",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/05/11",
+      "pageCount": 9,
+      "sourceFile": "【三井ホーム】販売_202505116.pdf",
+      "imageDir": "images/三井ホーム"
+    },
+    {
+      "id": "三井住友信託銀行",
+      "location": "三井住友信託銀行",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/09",
+      "pageCount": 6,
+      "sourceFile": "【三井住友信託銀行】販売員20250409.pdf",
+      "imageDir": "images/三井住友信託銀行"
+    },
+    {
+      "id": "三井化学",
+      "location": "三井化学",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/05/13",
+      "pageCount": 6,
+      "sourceFile": "【三井化学】販売_20250513.pdf",
+      "imageDir": "images/三井化学"
+    },
+    {
+      "id": "三井化学",
+      "location": "三井化学",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 21,
+      "sourceFile": "【三井化学】販売_20250905.pdf",
+      "imageDir": "images/三井化学"
+    },
+    {
+      "id": "三井情報",
+      "location": "三井情報",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/05/24",
+      "pageCount": 2,
+      "sourceFile": "【三井情報】20230524.pdf",
+      "imageDir": "images/三井情報"
+    },
+    {
+      "id": "三菱UFJ国際投信",
+      "location": "三菱UFJ国際投信",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/27",
+      "pageCount": 10,
+      "sourceFile": "【三菱UFJ国際投信】販売員_20251027.pdf",
+      "imageDir": "images/三菱UFJ国際投信"
+    },
+    {
+      "id": "三菱UFJ銀行（東京ビル）",
+      "location": "三菱UFJ銀行（東京ビル）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/27",
+      "pageCount": 9,
+      "sourceFile": "【三菱UFJ銀行（東京ビル）】販売_20250127.pdf",
+      "imageDir": "images/三菱UFJ銀行（東京ビル）"
+    },
+    {
+      "id": "三菱UFJ（柳屋ビル）",
+      "location": "三菱UFJ（柳屋ビル）",
+      "category": "location",
+      "address": "〒103-0027 東京都中央区日本橋２丁目１−１０",
+      "updateDate": "2025/05/15",
+      "pageCount": 7,
+      "sourceFile": "【三菱UFJ（柳屋ビル）】販売_20250515.pdf",
+      "imageDir": "images/三菱UFJ（柳屋ビル）"
+    },
+    {
+      "id": "三菱総研DCS",
+      "location": "三菱総研DCS",
+      "category": "location",
+      "address": "〒108-0073 東京都港区三田３丁目５−１９",
+      "updateDate": "2025/06/20",
+      "pageCount": 17,
+      "sourceFile": "【三菱総研DCS】販売_共有20250620.pdf",
+      "imageDir": "images/三菱総研DCS"
+    },
+    {
+      "id": "上智大学 _目白キャンパス",
+      "location": "上智大学 _目白キャンパス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/26",
+      "pageCount": 17,
+      "sourceFile": "【上智大学 _目白キャンパス】販売_共有20250626.pdf",
+      "imageDir": "images/上智大学 _目白キャンパス"
+    },
+    {
+      "id": "上智大学",
+      "location": "上智大学",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/05/24",
+      "pageCount": 4,
+      "sourceFile": "【上智大学】20220524.pdf",
+      "imageDir": "images/上智大学"
+    },
+    {
+      "id": "不二硝子_本社",
+      "location": "不二硝子_本社",
+      "category": "location",
+      "address": "：東京都墨田区文花２丁目14 - ３",
+      "updateDate": "",
+      "pageCount": 20,
+      "sourceFile": "【不二硝子_本社】販売_共有202507.pdf",
+      "imageDir": "images/不二硝子_本社"
+    },
+    {
+      "id": "九段合同庁舎",
+      "location": "九段合同庁舎",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/06/25",
+      "pageCount": 4,
+      "sourceFile": "【九段合同庁舎】20210625.pdf",
+      "imageDir": "images/九段合同庁舎"
+    },
+    {
+      "id": "京セラ",
+      "location": "京セラ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/07",
+      "pageCount": 6,
+      "sourceFile": "【京セラ】_販売員20250707.pdf",
+      "imageDir": "images/京セラ"
+    },
+    {
+      "id": "京急第一ビル",
+      "location": "京急第一ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/05/13",
+      "pageCount": 10,
+      "sourceFile": "【京急第一ビル】販売_20250513.pdf",
+      "imageDir": "images/京急第一ビル"
+    },
+    {
+      "id": "住友不動産虎ノ門タワー",
+      "location": "住友不動産虎ノ門タワー",
+      "category": "location",
+      "address": "：〒105-0001 東京都港区虎ノ門２丁目２−１",
+      "updateDate": "2025/11/27",
+      "pageCount": 11,
+      "sourceFile": "【住友不動産虎ノ門タワー】販売_共有20251127.pdf",
+      "imageDir": "images/住友不動産虎ノ門タワー"
+    },
+    {
+      "id": "住友芝浦ビル",
+      "location": "住友芝浦ビル",
+      "category": "location",
+      "address": "：東京都港区芝浦4丁目16番36号",
+      "updateDate": "2025/12/12",
+      "pageCount": 8,
+      "sourceFile": "【住友芝浦ビル】販売_共有20251212 .pdf",
+      "imageDir": "images/住友芝浦ビル"
+    },
+    {
+      "id": "光文社_本社",
+      "location": "光文社_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/06",
+      "pageCount": 17,
+      "sourceFile": "【光文社_本社】販売用_共有20251006.pdf",
+      "imageDir": "images/光文社_本社"
+    },
+    {
+      "id": "冨士機材_本社",
+      "location": "冨士機材_本社",
+      "category": "location",
+      "address": "東京都千代田区麹町三丁目2－8 8階",
+      "updateDate": "2025/10/01",
+      "pageCount": 17,
+      "sourceFile": "【冨士機材_本社】販売_共有20251001.pdf",
+      "imageDir": "images/冨士機材_本社"
+    },
+    {
+      "id": "品川シーズンテラス",
+      "location": "品川シーズンテラス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/29",
+      "pageCount": 9,
+      "sourceFile": "【品川シーズンテラス】販売員マニュアル20250129.pdf",
+      "imageDir": "images/品川シーズンテラス"
+    },
+    {
+      "id": "商船三井_虎ノ門三井アルセアタワー",
+      "location": "商船三井_虎ノ門三井アルセアタワー",
+      "category": "location",
+      "address": "〒105-0001 東京都港区虎ノ門２-3",
+      "updateDate": "2026/04/02",
+      "pageCount": 8,
+      "sourceFile": "【商船三井_虎ノ門三井アルセアタワー】販売_共有20260402.pdf",
+      "imageDir": "images/商船三井_虎ノ門三井アルセアタワー"
+    },
+    {
+      "id": "国分寺市役所",
+      "location": "国分寺市役所",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/17",
+      "pageCount": 10,
+      "sourceFile": "【国分寺市役所】販売_20250717.pdf",
+      "imageDir": "images/国分寺市役所"
+    },
+    {
+      "id": "墨田区役所",
+      "location": "墨田区役所",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/05/31",
+      "pageCount": 6,
+      "sourceFile": "【墨田区役所】20230531.pdf",
+      "imageDir": "images/墨田区役所"
+    },
+    {
+      "id": "外務省",
+      "location": "外務省",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/00/61",
+      "pageCount": 4,
+      "sourceFile": "【外務省】202100614.pdf",
+      "imageDir": "images/外務省"
+    },
+    {
+      "id": "大崎ウィズタワー",
+      "location": "大崎ウィズタワー",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/04",
+      "pageCount": 18,
+      "sourceFile": "【大崎ウィズタワー】_販売員20250904.pdf",
+      "imageDir": "images/大崎ウィズタワー"
+    },
+    {
+      "id": "大東文化大学",
+      "location": "大東文化大学",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/04/23",
+      "pageCount": 9,
+      "sourceFile": "【大東文化大学】販売員共有_20260423.pdf",
+      "imageDir": "images/大東文化大学"
+    },
+    {
+      "id": "大鵬薬品工業",
+      "location": "大鵬薬品工業",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/14",
+      "pageCount": 4,
+      "sourceFile": "【大鵬薬品工業】20250214販売員.pdf",
+      "imageDir": "images/大鵬薬品工業"
+    },
+    {
+      "id": "富士電機東京工場",
+      "location": "富士電機東京工場",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/07/06",
+      "pageCount": 3,
+      "sourceFile": "【富士電機東京工場】20210706.pdf",
+      "imageDir": "images/富士電機東京工場"
+    },
+    {
+      "id": "屋台DELiP御殿山トラスト",
+      "location": "屋台DELiP御殿山トラスト",
+      "category": "location",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 2,
+      "sourceFile": "【屋台DELiP御殿山トラスト】190116.pdf",
+      "imageDir": "images/屋台DELiP御殿山トラスト"
+    },
+    {
+      "id": "屋台DELiP横浜ダイヤビル",
+      "location": "屋台DELiP横浜ダイヤビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/07/10",
+      "pageCount": 5,
+      "sourceFile": "【屋台DELiP横浜ダイヤビル】20230710.pdf",
+      "imageDir": "images/屋台DELiP横浜ダイヤビル"
+    },
+    {
+      "id": "川崎重工業 KAWARUBA",
+      "location": "川崎重工業 KAWARUBA",
+      "category": "location",
+      "address": "〒144-0041",
+      "updateDate": "2025/06/09",
+      "pageCount": 6,
+      "sourceFile": "【川崎重工業 KAWARUBA】販売_20250609.pdf",
+      "imageDir": "images/川崎重工業 KAWARUBA"
+    },
+    {
+      "id": "市民総合医療センター",
+      "location": "市民総合医療センター",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/11/29",
+      "pageCount": 8,
+      "sourceFile": "【市民総合医療センター】20241129.pdf",
+      "imageDir": "images/市民総合医療センター"
+    },
+    {
+      "id": "府中刑務所",
+      "location": "府中刑務所",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/06",
+      "pageCount": 17,
+      "sourceFile": "【府中刑務所】販売_共有20251006.pdf",
+      "imageDir": "images/府中刑務所"
+    },
+    {
+      "id": "愛宕グリーンヒルズCAT端末操作",
+      "location": "愛宕グリーンヒルズCAT端末操作",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/09/15",
+      "pageCount": 3,
+      "sourceFile": "【愛宕グリーンヒルズCAT端末操作】20220915.pdf",
+      "imageDir": "images/愛宕グリーンヒルズCAT端末操作"
+    },
+    {
+      "id": "愛宕グリーンヒルズ",
+      "location": "愛宕グリーンヒルズ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/09/15",
+      "pageCount": 4,
+      "sourceFile": "【愛宕グリーンヒルズ】20220915.pdf",
+      "imageDir": "images/愛宕グリーンヒルズ"
+    },
+    {
+      "id": "愛宕グリーンヒルズ売上報告",
+      "location": "愛宕グリーンヒルズ売上報告",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/09/15",
+      "pageCount": 3,
+      "sourceFile": "【愛宕グリーンヒルズ売上報告】20220915.pdf",
+      "imageDir": "images/愛宕グリーンヒルズ売上報告"
+    },
+    {
+      "id": "慈恵大学_西部医療センター",
+      "location": "慈恵大学_西部医療センター",
+      "category": "location",
+      "address": "：〒201-8601　東京都狛江市和泉本町",
+      "updateDate": "2026/01/20",
+      "pageCount": 8,
+      "sourceFile": "【慈恵大学_西部医療センター】販売_共有20260120.pdf",
+      "imageDir": "images/慈恵大学_西部医療センター"
+    },
+    {
+      "id": "慈恵大学病院",
+      "location": "慈恵大学病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/04/16",
+      "pageCount": 8,
+      "sourceFile": "【慈恵大学病院】販売員共有_20260416.pdf",
+      "imageDir": "images/慈恵大学病院"
+    },
+    {
+      "id": "慈恵大学第三病院",
+      "location": "慈恵大学第三病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/17",
+      "pageCount": 9,
+      "sourceFile": "【慈恵大学第三病院】(土曜販売含む)20250217.pdf",
+      "imageDir": "images/慈恵大学第三病院"
+    },
+    {
+      "id": "慶應義塾大学病院_1号館1階",
+      "location": "慶應義塾大学病院_1号館1階",
+      "category": "location",
+      "address": "：東京都新宿区信濃町３５",
+      "updateDate": "2025/12/25",
+      "pageCount": 8,
+      "sourceFile": "【慶應義塾大学病院_1号館1階】販売_共有20251225.pdf",
+      "imageDir": "images/慶應義塾大学病院_1号館1階"
+    },
+    {
+      "id": "慶應義塾大学病院",
+      "location": "慶應義塾大学病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/08",
+      "pageCount": 6,
+      "sourceFile": "【慶應義塾大学病院】販売員20250408.pdf",
+      "imageDir": "images/慶應義塾大学病院"
+    },
+    {
+      "id": "成田富里徳洲会病院",
+      "location": "成田富里徳洲会病院",
+      "category": "location",
+      "address": "千葉県富里市日吉台1－1－1",
+      "updateDate": "2025/08/28",
+      "pageCount": 17,
+      "sourceFile": "【成田富里徳洲会病院】販売_共有20250828.pdf",
+      "imageDir": "images/成田富里徳洲会病院"
+    },
+    {
+      "id": "所沢ロイヤル病院",
+      "location": "所沢ロイヤル病院",
+      "category": "location",
+      "address": "〒359-1152",
+      "updateDate": "2025/02/20",
+      "pageCount": 7,
+      "sourceFile": "【所沢ロイヤル病院】販売_20250220.pdf",
+      "imageDir": "images/所沢ロイヤル病院"
+    },
+    {
+      "id": "文化学園",
+      "location": "文化学園",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/12/05",
+      "pageCount": 4,
+      "sourceFile": "【文化学園】20221205.pdf",
+      "imageDir": "images/文化学園"
+    },
+    {
+      "id": "日土地ビル",
+      "location": "日土地ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/10/18",
+      "pageCount": 4,
+      "sourceFile": "【日土地ビル】20221018.pdf",
+      "imageDir": "images/日土地ビル"
+    },
+    {
+      "id": "日土地ビル楽天端末操作方法",
+      "location": "日土地ビル楽天端末操作方法",
+      "category": "location",
+      "address": "",
+      "updateDate": "2020/03/31",
+      "pageCount": 4,
+      "sourceFile": "【日土地ビル楽天端末操作方法】20200331.pdf",
+      "imageDir": "images/日土地ビル楽天端末操作方法"
+    },
+    {
+      "id": "日大文理（日本大学文理学部）",
+      "location": "日大文理（日本大学文理学部）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/27",
+      "pageCount": 4,
+      "sourceFile": "【日大文理（日本大学文理学部）】販売員_20251027.pdf",
+      "imageDir": "images/日大文理（日本大学文理学部）"
+    },
+    {
+      "id": "日本アイ・ビー・エム",
+      "location": "日本アイ・ビー・エム",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/01/24",
+      "pageCount": 8,
+      "sourceFile": "【日本アイ・ビー・エム】20250124.pdf",
+      "imageDir": "images/日本アイ・ビー・エム"
+    },
+    {
+      "id": "日本カストディ銀行",
+      "location": "日本カストディ銀行",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/10",
+      "pageCount": 14,
+      "sourceFile": "【日本カストディ銀行】_販売員20251010.pdf",
+      "imageDir": "images/日本カストディ銀行"
+    },
+    {
+      "id": "日本カストディ銀行ＣＢＪ国領センター",
+      "location": "日本カストディ銀行ＣＢＪ国領センター",
+      "category": "location",
+      "address": "〒182-0022",
+      "updateDate": "2025/06/20",
+      "pageCount": 7,
+      "sourceFile": "【日本カストディ銀行ＣＢＪ国領センター】販売_20250620.pdf",
+      "imageDir": "images/日本カストディ銀行ＣＢＪ国領センター"
+    },
+    {
+      "id": "日本マスタートラスト（赤坂）",
+      "location": "日本マスタートラスト（赤坂）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/11",
+      "pageCount": 7,
+      "sourceFile": "【日本マスタートラスト（赤坂）】販売員20250411.pdf",
+      "imageDir": "images/日本マスタートラスト（赤坂）"
+    },
+    {
+      "id": "日本モレックス_本社",
+      "location": "日本モレックス_本社",
+      "category": "location",
+      "address": "神奈川県横浜市西区みなとみらい３丁目３",
+      "updateDate": "2026/04/06",
+      "pageCount": 6,
+      "sourceFile": "【日本モレックス_本社】販売_共有20260406.pdf",
+      "imageDir": "images/日本モレックス_本社"
+    },
+    {
+      "id": "日本医科大学武蔵小杉病院",
+      "location": "日本医科大学武蔵小杉病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/04",
+      "pageCount": 17,
+      "sourceFile": "【日本医科大学武蔵小杉病院】20250604 販売.pdf",
+      "imageDir": "images/日本医科大学武蔵小杉病院"
+    },
+    {
+      "id": "日本大学商学部",
+      "location": "日本大学商学部",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/04/10",
+      "pageCount": 4,
+      "sourceFile": "【日本大学商学部】20230410.pdf",
+      "imageDir": "images/日本大学商学部"
+    },
+    {
+      "id": "日本学生支援機構_市谷事業所",
+      "location": "日本学生支援機構_市谷事業所",
+      "category": "location",
+      "address": "東京都新宿区市谷本村町10-7　２階",
+      "updateDate": "2025/12/03",
+      "pageCount": 17,
+      "sourceFile": "【日本学生支援機構_市谷事業所】販売_共有20251203.pdf",
+      "imageDir": "images/日本学生支援機構_市谷事業所"
+    },
+    {
+      "id": "日本橋一丁目三井ビルディング",
+      "location": "日本橋一丁目三井ビルディング",
+      "category": "location",
+      "address": "東京都中央区日本橋１丁目４−１",
+      "updateDate": "2026/03/31",
+      "pageCount": 6,
+      "sourceFile": "【日本橋一丁目三井ビルディング】販売_共有20260331.pdf",
+      "imageDir": "images/日本橋一丁目三井ビルディング"
+    },
+    {
+      "id": "日本生命日比谷ビル",
+      "location": "日本生命日比谷ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/20",
+      "pageCount": 8,
+      "sourceFile": "【日本生命日比谷ビル】販売_20250220.pdf",
+      "imageDir": "images/日本生命日比谷ビル"
+    },
+    {
+      "id": "日本総研情報サービス",
+      "location": "日本総研情報サービス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/02/14",
+      "pageCount": 7,
+      "sourceFile": "【日本総研情報サービス】20240214販売.pdf",
+      "imageDir": "images/日本総研情報サービス"
+    },
+    {
+      "id": "日立建機日本",
+      "location": "日立建機日本",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/07/12",
+      "pageCount": 1,
+      "sourceFile": "【日立建機日本】販売_20240712(OPEN前).pdf",
+      "imageDir": "images/日立建機日本"
+    },
+    {
+      "id": "日立製作所_本社",
+      "location": "日立製作所_本社",
+      "category": "location",
+      "address": "東京都千代田区丸の内一丁目6番6号",
+      "updateDate": "2025/10/20",
+      "pageCount": 17,
+      "sourceFile": "【日立製作所_本社】販売_共有20251020.pdf",
+      "imageDir": "images/日立製作所_本社"
+    },
+    {
+      "id": "日立製作所横浜事業所",
+      "location": "日立製作所横浜事業所",
+      "category": "location",
+      "address": "：神奈川県横浜市戸塚区吉田町292番地",
+      "updateDate": "2026/01/30",
+      "pageCount": 8,
+      "sourceFile": "【日立製作所横浜事業所】販売_共有20260130.pdf",
+      "imageDir": "images/日立製作所横浜事業所"
+    },
+    {
+      "id": "日野自動車_本社",
+      "location": "日野自動車_本社",
+      "category": "location",
+      "address": "東京都日野市日野台３丁目１ - １",
+      "updateDate": "2026/03/23",
+      "pageCount": 8,
+      "sourceFile": "【日野自動車_本社】販売_共有20260323.pdf",
+      "imageDir": "images/日野自動車_本社"
+    },
+    {
+      "id": "日鉄日本橋ビル",
+      "location": "日鉄日本橋ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/24",
+      "pageCount": 14,
+      "sourceFile": "【日鉄日本橋ビル】販売_20250624.pdf",
+      "imageDir": "images/日鉄日本橋ビル"
+    },
+    {
+      "id": "旭化成ホームズ",
+      "location": "旭化成ホームズ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/24",
+      "pageCount": 5,
+      "sourceFile": "【旭化成ホームズ】販売_20250624.pdf",
+      "imageDir": "images/旭化成ホームズ"
+    },
+    {
+      "id": "有明フロンティアビル",
+      "location": "有明フロンティアビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/03/29",
+      "pageCount": 6,
+      "sourceFile": "【有明フロンティアビル】20240329(再開前).pdf",
+      "imageDir": "images/有明フロンティアビル"
+    },
+    {
+      "id": "有明フロンティアビル",
+      "location": "有明フロンティアビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/02/03",
+      "pageCount": 7,
+      "sourceFile": "【有明フロンティアビル】販売員_20260203.pdf",
+      "imageDir": "images/有明フロンティアビル"
+    },
+    {
+      "id": "本田技研様",
+      "location": "本田技研様",
+      "category": "location",
+      "address": "〒105-0001 東京都港区虎ノ門２丁目２−１０５",
+      "updateDate": "",
+      "pageCount": 8,
+      "sourceFile": "【本田技研様】搬入_平日2025 年12月33階追加分.pdf",
+      "imageDir": "images/本田技研様"
+    },
+    {
+      "id": "本田技研様",
+      "location": "本田技研様",
+      "category": "location",
+      "address": "〒105-0001 東京都港区虎ノ門２丁目２−１０５",
+      "updateDate": "2025/12/11",
+      "pageCount": 13,
+      "sourceFile": "【本田技研様】販売員用20251211.pdf",
+      "imageDir": "images/本田技研様"
+    },
+    {
+      "id": "東京エレクトロン_みなとみらい",
+      "location": "東京エレクトロン_みなとみらい",
+      "category": "location",
+      "address": "：神奈川県横浜市西区みなとみらい5-1-2",
+      "updateDate": "2026/01/13",
+      "pageCount": 8,
+      "sourceFile": "【東京エレクトロン_みなとみらい】販売_共有20260113.pdf",
+      "imageDir": "images/東京エレクトロン_みなとみらい"
+    },
+    {
+      "id": "東京ビッグサイト_タイム24ビル（2026）",
+      "location": "東京ビッグサイト_タイム24ビル（2026）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/04/02",
+      "pageCount": 9,
+      "sourceFile": "【東京ビッグサイト_タイム24ビル（2026）】販売_共有20260402.pdf",
+      "imageDir": "images/東京ビッグサイト_タイム24ビル（2026）"
+    },
+    {
+      "id": "東京ビッグサイト_国際展示場_北コンコース",
+      "location": "東京ビッグサイト_国際展示場_北コンコース",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/12",
+      "pageCount": 21,
+      "sourceFile": "【東京ビッグサイト_国際展示場_北コンコース】販売_共有20250612.pdf",
+      "imageDir": "images/東京ビッグサイト_国際展示場_北コンコース"
+    },
+    {
+      "id": "東京ビッグサイト_国際展示場_南展示棟3階",
+      "location": "東京ビッグサイト_国際展示場_南展示棟3階",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/10",
+      "pageCount": 19,
+      "sourceFile": "【東京ビッグサイト_国際展示場_南展示棟3階】販売_共有20251010.pdf",
+      "imageDir": "images/東京ビッグサイト_国際展示場_南展示棟3階"
+    },
+    {
+      "id": "東京ビッグサイト_国際展示場_東展示棟2階",
+      "location": "東京ビッグサイト_国際展示場_東展示棟2階",
+      "category": "location",
+      "address": "",
+      "updateDate": "2026/04/17",
+      "pageCount": 10,
+      "sourceFile": "【東京ビッグサイト_国際展示場_東展示棟2階】販売員共有20260417.pdf",
+      "imageDir": "images/東京ビッグサイト_国際展示場_東展示棟2階"
+    },
+    {
+      "id": "東京堂千代田ビルディング",
+      "location": "東京堂千代田ビルディング",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/01",
+      "pageCount": 8,
+      "sourceFile": "【東京堂千代田ビルディング】販売_20251001.pdf",
+      "imageDir": "images/東京堂千代田ビルディング"
+    },
+    {
+      "id": "東京女子医科大学病院",
+      "location": "東京女子医科大学病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 10,
+      "sourceFile": "【東京女子医科大学病院】販売員_20250905.pdf",
+      "imageDir": "images/東京女子医科大学病院"
+    },
+    {
+      "id": "東京海上",
+      "location": "東京海上",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/06/27",
+      "pageCount": 3,
+      "sourceFile": "【東京海上】20230627.pdf",
+      "imageDir": "images/東京海上"
+    },
+    {
+      "id": "東京港湾合同庁舎（東京税関）",
+      "location": "東京港湾合同庁舎（東京税関）",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/08/09",
+      "pageCount": 5,
+      "sourceFile": "【東京港湾合同庁舎（東京税関）】20240809.pdf",
+      "imageDir": "images/東京港湾合同庁舎（東京税関）"
+    },
+    {
+      "id": "東京高等地方簡易裁判所庁舎",
+      "location": "東京高等地方簡易裁判所庁舎",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/04/13",
+      "pageCount": 2,
+      "sourceFile": "【東京高等地方簡易裁判所庁舎】20210413.pdf",
+      "imageDir": "images/東京高等地方簡易裁判所庁舎"
+    },
+    {
+      "id": "東急_東急南平台町ビル",
+      "location": "東急_東急南平台町ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/01",
+      "pageCount": 18,
+      "sourceFile": "【東急_東急南平台町ビル】販売用_共有20251001.pdf",
+      "imageDir": "images/東急_東急南平台町ビル"
+    },
+    {
+      "id": "東急_東急桜丘ビル",
+      "location": "東急_東急桜丘ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/25",
+      "pageCount": 19,
+      "sourceFile": "【東急_東急桜丘ビル】販売用_共有20250425.pdf",
+      "imageDir": "images/東急_東急桜丘ビル"
+    },
+    {
+      "id": "東急キャピトルタワー",
+      "location": "東急キャピトルタワー",
+      "category": "location",
+      "address": "：東京都千代田区永田町二丁目10番3号",
+      "updateDate": "2026/01/13",
+      "pageCount": 8,
+      "sourceFile": "【東急キャピトルタワー】販売_共有20260113.pdf",
+      "imageDir": "images/東急キャピトルタワー"
+    },
+    {
+      "id": "東急不動産",
+      "location": "東急不動産",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/10/31",
+      "pageCount": 8,
+      "sourceFile": "【東急不動産】20241031.pdf",
+      "imageDir": "images/東急不動産"
+    },
+    {
+      "id": "板橋区役所",
+      "location": "板橋区役所",
+      "category": "location",
+      "address": "東京都板橋区板橋2-66-1",
+      "updateDate": "2026/04/01",
+      "pageCount": 8,
+      "sourceFile": "【板橋区役所】販売_共有20260401.pdf",
+      "imageDir": "images/板橋区役所"
+    },
+    {
+      "id": "桐朋学園_仙川キャンパス",
+      "location": "桐朋学園_仙川キャンパス",
+      "category": "location",
+      "address": "：東京都調布市若葉町１－４１－１",
+      "updateDate": "2026/04/08",
+      "pageCount": 9,
+      "sourceFile": "【桐朋学園_仙川キャンパス】販売_共有20260408.pdf",
+      "imageDir": "images/桐朋学園_仙川キャンパス"
+    },
+    {
+      "id": "浜町センタービル",
+      "location": "浜町センタービル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/09/16",
+      "pageCount": 3,
+      "sourceFile": "【浜町センタービル】20210916.pdf",
+      "imageDir": "images/浜町センタービル"
+    },
+    {
+      "id": "澁澤シティプレイス永代ビル",
+      "location": "澁澤シティプレイス永代ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/12/05",
+      "pageCount": 4,
+      "sourceFile": "【澁澤シティプレイス永代ビル】20221205.pdf",
+      "imageDir": "images/澁澤シティプレイス永代ビル"
+    },
+    {
+      "id": "物語コーポレーション",
+      "location": "物語コーポレーション",
+      "category": "location",
+      "address": "",
+      "updateDate": "2024/08/02",
+      "pageCount": 7,
+      "sourceFile": "【物語コーポレーション】20240802.pdf",
+      "imageDir": "images/物語コーポレーション"
+    },
+    {
+      "id": "田町ファーストビル",
+      "location": "田町ファーストビル",
+      "category": "location",
+      "address": "：東京都港区芝浦4丁目6番8号",
+      "updateDate": "2025/12/12",
+      "pageCount": 9,
+      "sourceFile": "【田町ファーストビル】販売_共有20251212.pdf",
+      "imageDir": "images/田町ファーストビル"
+    },
+    {
+      "id": "秋葉原UDX・オフィスロビー",
+      "location": "秋葉原UDX・オフィスロビー",
+      "category": "location",
+      "address": "：東京都千代田区外神田４丁目１４−１ 秋葉",
+      "updateDate": "2026/04/08",
+      "pageCount": 10,
+      "sourceFile": "【秋葉原UDX・オフィスロビー】販売_共有20260408.pdf",
+      "imageDir": "images/秋葉原UDX・オフィスロビー"
+    },
+    {
+      "id": "立教大学_新座キャンパス",
+      "location": "立教大学_新座キャンパス",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/12/01",
+      "pageCount": 17,
+      "sourceFile": "【立教大学_新座キャンパス】販売_（共有・保管）20251201.pdf",
+      "imageDir": "images/立教大学_新座キャンパス"
+    },
+    {
+      "id": "立教大学_池袋キャンパス",
+      "location": "立教大学_池袋キャンパス",
+      "category": "location",
+      "address": "東京都豊島区西池袋3-34-1　8号館1階",
+      "updateDate": "2026/03/18",
+      "pageCount": 8,
+      "sourceFile": "【立教大学_池袋キャンパス】販売_共有20260318.pdf",
+      "imageDir": "images/立教大学_池袋キャンパス"
+    },
+    {
+      "id": "第一興商__本社",
+      "location": "第一興商__本社",
+      "category": "location",
+      "address": "東京都港区三田3-9-6　第一興商ビル　13F",
+      "updateDate": "2026/04/08",
+      "pageCount": 7,
+      "sourceFile": "【第一興商__本社】販売_共有20260408.pdf",
+      "imageDir": "images/第一興商__本社"
+    },
+    {
+      "id": "米屋_本社",
+      "location": "米屋_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/06/04",
+      "pageCount": 21,
+      "sourceFile": "【米屋_本社】販売用_共有20250604.pdf",
+      "imageDir": "images/米屋_本社"
+    },
+    {
+      "id": "綜合警備保障_本社",
+      "location": "綜合警備保障_本社",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/02/21",
+      "pageCount": 17,
+      "sourceFile": "【綜合警備保障_本社】販売_共有20250221.pdf",
+      "imageDir": "images/綜合警備保障_本社"
+    },
+    {
+      "id": "綜合警備保障",
+      "location": "綜合警備保障",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/04/10",
+      "pageCount": 8,
+      "sourceFile": "【綜合警備保障】販売員20250410.pdf",
+      "imageDir": "images/綜合警備保障"
+    },
+    {
+      "id": "脳卒中センター",
+      "location": "脳卒中センター",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/12/04",
+      "pageCount": 5,
+      "sourceFile": "【脳卒中センター】20251204更新.pdf",
+      "imageDir": "images/脳卒中センター"
+    },
+    {
+      "id": "興銀リース(みずほリース)",
+      "location": "興銀リース(みずほリース)",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/01/24",
+      "pageCount": 3,
+      "sourceFile": "【興銀リース(みずほリース)】20220124.pdf",
+      "imageDir": "images/興銀リース(みずほリース)"
+    },
+    {
+      "id": "芝浦スクエア",
+      "location": "芝浦スクエア",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/07",
+      "pageCount": 3,
+      "sourceFile": "【芝浦スクエア】20250707.pdf",
+      "imageDir": "images/芝浦スクエア"
+    },
+    {
+      "id": "芝浦ルネサイト",
+      "location": "芝浦ルネサイト",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/30",
+      "pageCount": 5,
+      "sourceFile": "【芝浦ルネサイト】販売員_20250930.pdf",
+      "imageDir": "images/芝浦ルネサイト"
+    },
+    {
+      "id": "芝浦清水ビル",
+      "location": "芝浦清水ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2023/06/27",
+      "pageCount": 4,
+      "sourceFile": "【芝浦清水ビル】20230627.pdf",
+      "imageDir": "images/芝浦清水ビル"
+    },
+    {
+      "id": "芝離宮ビルディング",
+      "location": "芝離宮ビルディング",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 7,
+      "sourceFile": "【芝離宮ビルディング】販売員_20250905.pdf",
+      "imageDir": "images/芝離宮ビルディング"
+    },
+    {
+      "id": "虎ノ門三井ビル",
+      "location": "虎ノ門三井ビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/09/05",
+      "pageCount": 16,
+      "sourceFile": "【虎ノ門三井ビル】販売_共有20250905.pdf",
+      "imageDir": "images/虎ノ門三井ビル"
+    },
+    {
+      "id": "豊洲ONビル",
+      "location": "豊洲ONビル",
+      "category": "location",
+      "address": "〒135-0061 東京都江東区豊洲１丁目１−１",
+      "updateDate": "2025/08/29",
+      "pageCount": 6,
+      "sourceFile": "【豊洲ONビル】販売_20250829.pdf",
+      "imageDir": "images/豊洲ONビル"
+    },
+    {
+      "id": "財務省_西ケ原研修合同庁舎",
+      "location": "財務省_西ケ原研修合同庁舎",
+      "category": "location",
+      "address": "東京都北区西ケ原２丁目２−１ 西ケ原研修",
+      "updateDate": "2025/10/03",
+      "pageCount": 16,
+      "sourceFile": "【財務省_西ケ原研修合同庁舎】販売_共有20251003.pdf",
+      "imageDir": "images/財務省_西ケ原研修合同庁舎"
+    },
+    {
+      "id": "関電工_本社",
+      "location": "関電工_本社",
+      "category": "location",
+      "address": "東京都港区芝浦四丁目8番33号",
+      "updateDate": "2025/10/10",
+      "pageCount": 17,
+      "sourceFile": "【関電工_本社】販売_共有20251010.pdf",
+      "imageDir": "images/関電工_本社"
+    },
+    {
+      "id": "防衛省",
+      "location": "防衛省",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/06/15",
+      "pageCount": 5,
+      "sourceFile": "【防衛省】20210615.pdf",
+      "imageDir": "images/防衛省"
+    },
+    {
+      "id": "電通",
+      "location": "電通",
+      "category": "location",
+      "address": "",
+      "updateDate": "2022/08/17",
+      "pageCount": 5,
+      "sourceFile": "【電通】20220817.pdf",
+      "imageDir": "images/電通"
+    },
+    {
+      "id": "順天堂練馬病院",
+      "location": "順天堂練馬病院",
+      "category": "location",
+      "address": "",
+      "updateDate": "2021/00/41",
+      "pageCount": 3,
+      "sourceFile": "【順天堂練馬病院】202100414.pdf",
+      "imageDir": "images/順天堂練馬病院"
+    },
+    {
+      "id": "ＪＲ目黒ＭＡＲＣビル",
+      "location": "ＪＲ目黒ＭＡＲＣビル",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/07/11",
+      "pageCount": 10,
+      "sourceFile": "【ＪＲ目黒ＭＡＲＣビル】_販売20250711.pdf",
+      "imageDir": "images/ＪＲ目黒ＭＡＲＣビル"
+    },
+    {
+      "id": "ﾍﾞｲｶﾚﾝﾄ・ｺﾝｻﾙﾃｨﾝｸﾞ",
+      "location": "ﾍﾞｲｶﾚﾝﾄ・ｺﾝｻﾙﾃｨﾝｸﾞ",
+      "category": "location",
+      "address": "",
+      "updateDate": "2025/10/15",
+      "pageCount": 6,
+      "sourceFile": "【ﾍﾞｲｶﾚﾝﾄ・ｺﾝｻﾙﾃｨﾝｸﾞ】_販売員20251015.pdf",
+      "imageDir": "images/ﾍﾞｲｶﾚﾝﾄ・ｺﾝｻﾙﾃｨﾝｸﾞ"
+    },
+    {
+      "id": "イベント　マニュアル",
+      "location": "イベント　マニュアル",
+      "category": "common",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 3,
+      "sourceFile": "イベント　マニュアル.pdf",
+      "imageDir": "images/イベント　マニュアル"
+    },
+    {
+      "id": "オフィスレジ利用方法 (販売員）2026",
+      "location": "オフィスレジ利用方法 (販売員）2026",
+      "category": "common",
+      "address": "",
+      "updateDate": "",
+      "pageCount": 13,
+      "sourceFile": "オフィスレジ利用方法 (販売員）2026.pdf",
+      "imageDir": "images/オフィスレジ利用方法 (販売員）2026"
+    }
+  ]
+}
